@@ -1,0 +1,19 @@
+{
+  "name": "tesr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "node-fetch": "^2.6.1",
+    "node-first": "^1.0.0",
+    "nodemon": "^2.0.6",
+    "request": "^2.88.2"
+  }
+}
